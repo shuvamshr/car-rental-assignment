@@ -1,0 +1,103 @@
+{
+    "vehicles": [
+      {
+        "id": 1,
+        "image": "img/1.jpg",
+        "category": "Sedan",
+        "availibility": true,
+        "brand": "Honda",
+        "model": "Civic",
+        "model_year": 2019,
+        "mileage": 50000,
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "rental_price": 60,
+        "description": "Sporty sedan with a sleek design and great handling that you'll enjoy greatly."
+      },
+      {
+        "id": 2,
+        "image": "img/2.jpg",
+        "category": "SUV",
+        "availibility": true,
+        "brand": "Toyota",
+        "model": "Rav4",
+        "model_year": 2020,
+        "mileage": 30000,
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "rental_price": 80,
+        "description": "Spacious SUV with all the latest safety features, best for a long family trip across the world."
+      },
+      {
+        "id": 3,
+        "image": "img/3.jpg",
+        "category": "Wagon",
+        "availibility": false,
+        "brand": "Subaru",
+        "model": "Outback",
+        "model_year": 2018,
+        "mileage": 70000,
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "rental_price": 70,
+        "description": "Reliable and comfortable wagon with great off-road capabilities, to meet all your hiking demands."
+      },
+      {
+        "id": 4,
+        "image": "img/4.jpg",
+        "category": "Sedan",
+        "availibility": false,
+        "brand": "Nissan",
+        "model": "Altima",
+        "model_year": 2021,
+        "mileage": 10000,
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "rental_price": 65,
+        "description": "Stylish and comfortable sedan with advanced safety features, to look best at your job interview."
+      },
+      {
+        "id": 5,
+        "image": "img/5.jpg",
+        "category": "SUV",
+        "availibility": true,
+        "brand": "Jeep",
+        "model": "Cherokee",
+        "model_year": 2019,
+        "mileage": 45000,
+        "fuel_type": "Diesel",
+        "seats": 7,
+        "rental_price": 90,
+        "description": "Powerful and rugged SUV with a luxurious interior, for the classiest trips you'll ever have."
+      },
+      {
+        "id": 6,
+        "image": "img/6.jpg",
+        "category": "Wagon",
+        "availibility": true,
+        "brand": "Volkswagen",
+        "model": "Golf",
+        "model_year": 2017,
+        "mileage": 80000,
+        "fuel_type": "Diesel",
+        "seats": 5,
+        "rental_price": 50,
+        "description": "Compact and efficient wagon with impressive cargo space, for riding across states with family."
+      },
+      {
+        "id": 7,
+        "image": "img/7.jpg",
+        "category": "Sedan",
+        "availibility": false,
+        "brand": "BMW",
+        "model": "3 Series",
+        "model_year": 2022,
+        "mileage": 5000,
+        "fuel_type": "Petrol",
+        "seats": 5,
+        "rental_price": 100,
+        "description": "Luxury sedan with cutting-edge technology and performance, to flex on them haters."
+     
+      }
+    ]
+}  
